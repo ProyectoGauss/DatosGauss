@@ -1,6 +1,8 @@
 # DatosGauss
 
 
+url = https://github.com/ProyectoGauss/DatosGauss.git
+
 
 Este código en Python genera un conjunto de datos aleatorios basados en ciertos rangos y luego compara la distribución de estos datos con una distribución normal. Aquí está el desglose:
 
